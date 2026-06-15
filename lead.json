@@ -1,0 +1,16 @@
+{
+  "slug": "demo-madrid-dental-marzan",
+  "brand": "Clinica Marzan",
+  "sector": "clinica dental privada",
+  "city": "Madrid",
+  "source_url": "https://clinicamarzan.es/contacto.html",
+  "public_contact_email": "citas@clinicamarzan.es",
+  "public_contact_type": "correo publico de citas; no localizado CEO/RRHH publico",
+  "phone": "914 461 609",
+  "price": "690 EUR",
+  "weakness": "La web ya tiene servicios buenos, pero el primer impacto se diluye entre menu, Covid, formulario antiguo y textos poco orientados a cita.",
+  "value_signal": "Clinica dental en zona universitaria/Chamberi con tratamientos esteticos y de implantes.",
+  "demo_url": null,
+  "github_url": null,
+  "outreach_status": "drafted_not_sent"
+}
