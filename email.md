@@ -1,23 +1,25 @@
 # Email draft - Clínica Marzán
 
 - To: citas@clinicamarzan.es
-- Subject: Clínica Marzán: propuesta web más clara para pacientes desde móvil
+- Subject: Propuesta web para Clínica Marzán
 - Proposed price: 690 EUR
 - Demo: https://demo-madrid-dental-marzan.vercel.app
 - Source: https://clinicamarzan.es/contacto.html
 
 Hola,
 
+Soy Alfonso Cifuentes, diseñador web.
+
 He preparado una propuesta visual para Clínica Marzán:
 https://demo-madrid-dental-marzan.vercel.app
 
-La página está redactada como una web final de clínica dental: profesionales, tratamientos, cita, ubicación y una explicación más directa de implantes, periodoncia, ortodoncia invisible y estética dental.
+La he pensado como una web final de clínica dental, con una presentación más limpia de implantes, periodoncia, ortodoncia invisible, estética dental, ubicación y cita.
 
-La web actual tiene contenido útil, pero la experiencia puede simplificarse para que el paciente entienda antes qué ofrecéis y cómo pedir cita, especialmente desde móvil.
+La sensación que busco es que el paciente entienda en pocos segundos qué ofrecéis y cómo puede contactar, especialmente desde móvil.
 
-Presupuesto cerrado: 690 EUR, pago único. Incluye rediseño responsive, adaptación de textos, traspaso del contenido principal, analítica básica, formulario y publicación.
+El presupuesto para dejarla adaptada y publicada sería de 690 EUR, pago único. Incluye diseño responsive, adaptación de textos, traspaso del contenido principal, analítica básica, formulario y publicación.
 
-Si os encaja, puedo mostraros la propuesta y adaptarla con vuestras fotos reales.
+Si os encaja, puedo enseñaros la propuesta y adaptarla con vuestras fotos reales.
 
 Un saludo,
 Alfonso Cifuentes
