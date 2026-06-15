@@ -10,7 +10,7 @@
   "price": "690 EUR",
   "weakness": "La web ya tiene servicios buenos, pero el primer impacto se diluye entre menu, Covid, formulario antiguo y textos poco orientados a cita.",
   "value_signal": "Clinica dental en zona universitaria/Chamberi con tratamientos esteticos y de implantes.",
-  "demo_url": null,
-  "github_url": null,
+  "demo_url": "https://demo-madrid-dental-marzan.vercel.app",
+  "github_url": "https://github.com/AlfonsoCifuentes/demo-madrid-dental-marzan",
   "outreach_status": "drafted_not_sent"
 }
